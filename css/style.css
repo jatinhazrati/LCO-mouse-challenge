@@ -132,8 +132,7 @@ a:active {
 }
 .buy-button {
   animation-duration: 10s;
-  animation-delay: 1s;
-  animation-iteration-count: 3;
+  animation-iteration-count: 7;
 }
 .dropdown-submenu {
   position: relative;
@@ -289,8 +288,8 @@ a:active {
 }
 .mouse-animation {
   animation-duration: 10s;
-  animation-delay: 5s;
-  animation-iteration-count: 8;
+  animation-delay: 3s;
+  animation-iteration-count: 12;
 }
 /* ===================== PRO-FEATURES SECTION ENDS =====================*/
 /* ===================== TESTIMONIALS SECTION STARTS =====================*/
