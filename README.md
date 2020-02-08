@@ -1,1 +1,1 @@
-# LCO-mouse-challenge
+# LCO-Mouse-Challenge
